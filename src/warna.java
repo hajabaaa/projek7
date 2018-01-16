@@ -44,9 +44,9 @@ public static void main(String[] args){
            
            }default :{
                
-           System.out.println("Maaf pilihan anda salah, Sila pilih warna merah/biru/kuning/hijau/hitam/putih sahaja ");
+           System.out.println("Maaf pilihan salah, Sila pilih hanya warna merah/biru/kuning/hijau/hitam/putih sahaja ");
                     }
                    }
-                    System.out.println(nama+", warna anda "+ulasan);                   
+                    System.out.println(nama+", warna anda bermakna "+ulasan);                   
     }
 }
